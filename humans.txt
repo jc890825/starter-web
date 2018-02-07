@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jorge Valdes jvaldes@babel.com  @jvaldes
 
 # THANKS
 
